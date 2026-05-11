@@ -20,5 +20,5 @@
 - [Student Database Management System](https://github.com/raphaeludubra/Student_management_app) – Python + SQL based management system for students    
 
 ## 📫 Connect
-📧 raphael.udubra@email.com  
+📧 raphaeludubra25@gmail.com  
 🌐 [LinkedIn](https://linkedin.com/in/raphaeludubra)
