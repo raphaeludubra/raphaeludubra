@@ -14,10 +14,14 @@
 
 Languages: TypeScript, Python, Java, SQL
 Frameworks/Runtimes: Node.js, React
-Databases: MongoDB, PostegreSQL
+Databases: MongoDB, PostgreSQL
 Tools: Docker, Git, VS Code, Linux
 
 ## 📂 Featured Projects
+
+### [Budget Tracker](https://github.com/raphaeludubra/budget-tracker)
+`TypeScript` `React` `Node.js` `Express` `MongoDB` `Jest`
+Full-stack budget tracker with JWT authentication, per-user data, monthly budget limits, and server-side summaries using MongoDB aggregation. Backed by a Jest/Supertest test suite that runs against an in-memory MongoDB.
 
 ### [Campus Connect API](https://github.com/cloudnex-consulting/campus-connect)
 `TypeScript` `Node.js` `MongoDB` `Docker`
